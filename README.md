@@ -14,8 +14,8 @@ I take messy, fragmented operational variables and convert them into strict, mat
 **Industrial CapEx & Costing Dashboard (In Development – Oct 2026)**
 
 *   **V1 Architecture:** Architecting a Python-based ETL pipeline to extract and cleanse synthetic SAP FI/CO General Ledger and simulated Operational Technology (OT) telemetry data, modeling the bridge between physical operations and the financial ledger.
-*   **V1 Deployment:** Deploying Microsoft Power BI to automate Price-Volume-Mix (PVM) standard costing variances, while engineering an agentic Python layer to autonomously detect and flag working capital and CapEx anomalies.
-*   **V2 Roadmap (ESG Integration):** Establishing strict Internal Controls over Financial Reporting (ICFR) for the models, with planned integration of fuel-yield variances into an IFRS S2 / ISSA 5000 audit-ready greenhouse gas compliance matrix.
+*   **V1 Deployment:** Deploying Microsoft Power BI to automate Price-Volume-Mix (PVM) standard costing variance calculations, with Power Query and DAX-driven working capital and CapEx variance flags.
+*   **V2 Roadmap (ESG Integration):** Extending the model with an agentic Python layer for autonomous anomaly detection, alongside integration of fuel-yield variances into an IFRS S2 / ISSA 5000 audit-ready greenhouse gas compliance matrix, and Internal Controls over Financial Reporting (ICFR) for the full system.
 
 ---
 
